@@ -6,6 +6,9 @@ ciencia de dados
 ### Capítulo 1
 analise  de dados
 ,capítulo 1
+
 $x^2+bx+c=0$
+
 $ x=-b/pm/sqtr{-b+4ac}/
+
 FC Porto,  Monster
