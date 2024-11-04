@@ -13,3 +13,5 @@ $x^2+bx+c=0$
 $ x=-b/pm/sqtr{-b+4ac}/
 
 FC Porto,  Monster
+
+Gemini modlo da ia da google
