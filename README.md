@@ -14,5 +14,6 @@ $ x=-b/pm/sqtr{-b+4ac}/
 
 FC Porto,  Monster
 
+Gemini modelo de Ia do google
 
 
