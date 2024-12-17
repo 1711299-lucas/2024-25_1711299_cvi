@@ -15,9 +15,9 @@ Este trabalho consistiu na realização de um projeto integrado envolvendo desig
 ### 2-Arquitectura do trabalho
 
 
-![no image](./word_cloud/imagens/messi_mask.png)
+![no-image](./word_cloud/imagens/messi_mask.png)
 
-![no image](./word_cloud/imagens/messi.png)
+![no-image](./word_cloud/imagens/messi.PNG)
 
 ### 3-Descrição da implementação	
  Utilizei o Google Drawings para criar uma máscara gráfica personalizada, ajustando detalhes para destacar seu design. Em seguida, desenvolvi um mini texto descrevendo as características do jogador Lionel Messi, incluindo sua habilidade técnica, velocidade e precisão. Posteriormente, implementei tanto a máscara quanto o texto em um código Python, integrando os elementos para demonstrar sua funcionalidade no ambiente de programação. O processo envolveu manipulação de imagens e uso de bibliotecas específicas para exibição e edição gráfica. Finalizei testando a aplicação para garantir a integração adequada de todos os componentes.
