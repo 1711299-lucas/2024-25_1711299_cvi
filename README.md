@@ -15,7 +15,7 @@ Este trabalho consistiu na realização de um projeto integrado envolvendo desig
 ### 2-Arquitectura do trabalho
 
 
-![no-image](./word_cloud/imagens/messi_mask.png)
+![no-image](.\word_cloud\imagens\messi_mask.png)
 
 
 ### 3-Descrição da implementação	
