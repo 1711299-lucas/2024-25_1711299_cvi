@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import os
 
 from wordcloud import WordCloud, STOPWORDS
-str="wutang"
+str="naruto"
 # get data directory (using getcwd() is needed to support running example in generated IPython notebook)
 d = path.dirname(__file__) if ("__file__") in locals() else os.getcwd()
 
